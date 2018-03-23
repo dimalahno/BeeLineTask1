@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Run {
 	public static void main(String[] args) {
+
 		SumNumbers numbers = new SumNumbers();
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Input first number: ");

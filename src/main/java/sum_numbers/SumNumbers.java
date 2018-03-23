@@ -3,6 +3,7 @@ package sum_numbers;
 public class SumNumbers {
 
 	public String sumLargeNumber(String num1, String num2){
+
 		// Определяем максимальную длину одного из чисел
 		int lengthOfNumber;
 		if (num1.length()>num2.length()){
